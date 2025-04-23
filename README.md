@@ -36,6 +36,7 @@ AirPointer_Modular/
 ├── gesture_detector.py     # Logic to detect gestures from landmarks
 ├── gesture_controller.py   # Maps gestures to PyAutoGUI actions
 ├── utils.py                # Helper functions (e.g., window focus)
+├── requirements.txt        # All required python packages
 ```
 ---
 
