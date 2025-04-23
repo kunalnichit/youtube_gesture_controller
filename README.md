@@ -17,14 +17,14 @@ AirPointer is a real-time YouTube Gesture Controller built using Python. It allo
 - **Python** - Core language
 ---
 ## ✋ Gesture Controls
-| Gesture                         | Action          |
+| Gesture                        | Action           |
 |--------------------------------|------------------|
 | Open palm                      | Play / Pause     |
 | Fist (no fingers up)           | Play / Pause     |
-| Two fingers (index + middle)  | Volume Up        |
+| Two fingers (index + middle)   | Volume Up        |
 | Ring + pinky fingers           | Volume Down      |
-| Pinky only                     | Next Video       |
-| All fingers except pinky       | Previous Video   |
+| Pinky only                     | Fast Forward Video    |
+| All fingers except pinky       | Fast Backward Video   |
 
 ---
 
